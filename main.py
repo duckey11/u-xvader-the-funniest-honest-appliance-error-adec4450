@@ -7,7 +7,7 @@ to /output/entry.txt: exactly one line, no trailing newline.
 
 import os
 
-LINE = "ERROR E07: Fridge door open for 3 hours. Contents now room temperature. I am a cupboard now."
+LINE = "ERROR E07: Fridge door open 3 hours. Contents now room temperature. I am a cupboard now."
 
 
 def main() -> None:
